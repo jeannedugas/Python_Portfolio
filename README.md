@@ -320,6 +320,8 @@ len(df.profit[non_numberic_profits])
 bin_sizes, _, _ = plt.hist(df.years[non_numberic_profits], bins=range(1955, 2006))
 ```
 
+![output_10_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/f15fd7c4-b006-4828-ad42-e5267013144c)
+
 ![png](output_10_0.png)
 
 ```python
