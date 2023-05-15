@@ -323,7 +323,6 @@ bin_sizes, _, _ = plt.hist(df.years[non_numberic_profits], bins=range(1955, 2006
 
 ![png](output_10_0.png)
 
-
 ```python
 df = df.loc[~non_numberic_profits]
 df.profit = df.profit.apply(pd.to_numeric)
