@@ -377,6 +377,7 @@ fig, ax = plt.subplots()
 plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005', 'Profit (millions)')
 ```
 
+![output_15_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/cc41de7f-dede-4b53-af5d-7ca454103fa0)
 
 ![png](output_15_0.png)
 
@@ -388,6 +389,7 @@ fig, ax = plt.subplots()
 plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005', 'Revenues (millions)')
 ```
 
+![output_16_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/22c0e623-b29f-4b72-a73d-19555b906c1c)
 
 ![png](output_16_0.png)
 
@@ -407,6 +409,7 @@ fig.set_size_inches(14, 4)
 fig.tight_layout()
 ```
 
+![output_17_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/cc8fe6d0-a26b-4a99-836c-e9fdf1fcb003)
 
 ![png](output_17_0.png)
 
