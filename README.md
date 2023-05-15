@@ -815,6 +815,7 @@ image = matplotlib.pyplot.imshow(data)
 matplotlib.pyplot.show()
 ```
 
+![output_1_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/773f3f4a-56e1-40f1-ba41-d8b97b1f99b7)
 
 ![png](output_1_0.png)
 
@@ -828,6 +829,7 @@ ave_plot = matplotlib.pyplot.plot(ave_inflammation)
 matplotlib.pyplot.show()
 ```
 
+![output_2_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/eeb1fdad-8839-4171-a128-6e0542a8fca3)
 
 ![png](output_2_0.png)
 
@@ -838,6 +840,7 @@ max_plot = matplotlib.pyplot.plot(numpy.amax(data, axis = 0))
 matplotlib.pyplot.show()
 ```
 
+![output_3_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/bbe233cd-b4db-457a-879f-f780c67f934a)
 
 ![png](output_3_0.png)
 
@@ -848,6 +851,7 @@ min_plot = matplotlib.pyplot.plot(numpy.amin(data, axis = 0))
 matplotlib.pyplot.show()
 ```
 
+![output_4_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/b36371af-ee51-4e6c-9187-d9abb19519d8)
 
 ![png](output_4_0.png)
 
@@ -875,6 +879,7 @@ matplotlib.pyplot.savefig('inflammation.png')
 matplotlib.pyplot.show()
 ```
 
+![output_5_0](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/3013ecf3-218a-46fe-9e17-4cc461e2b6f0)
 
 ![png](output_5_0.png)
 
