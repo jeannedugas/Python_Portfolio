@@ -1209,6 +1209,7 @@ for filename in filenames:
     inflammation-01.csv
 
 
+![output_2_1](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/f7f5ca01-51d6-435a-b4bf-0ac1f9fc1f67)
 
 ![png](output_2_1.png)
 
@@ -1216,6 +1217,7 @@ for filename in filenames:
     inflammation-02.csv
 
 
+![output_2_3](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/1c800ddf-b05c-4daa-a6c6-e6d872d0383a)
 
 ![png](output_2_3.png)
 
@@ -1223,6 +1225,7 @@ for filename in filenames:
     inflammation-03.csv
 
 
+![output_2_5](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/313d09d9-8508-46d0-8dbe-ce63468b2516)
 
 ![png](output_2_5.png)
 
