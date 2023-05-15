@@ -1614,6 +1614,7 @@ for filename in filenames:
     inflammation-01.csv
 
 
+![output_3_1](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/10e36c6f-f822-4e68-9323-2dd73f654b6b)
 
 ![png](output_3_1.png)
 
@@ -1622,6 +1623,7 @@ for filename in filenames:
     inflammation-02.csv
 
 
+![output_3_3](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/c4a35397-30c8-4b79-855f-cb57542d12ef)
 
 ![png](output_3_3.png)
 
@@ -1630,6 +1632,7 @@ for filename in filenames:
     inflammation-03.csv
 
 
+![output_3_5](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/62aa1885-9c3c-4914-8196-b562a2c9e3b4)
 
 ![png](output_3_5.png)
 
@@ -1638,6 +1641,7 @@ for filename in filenames:
     inflammation-04.csv
 
 
+![output_3_7](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/f72bfaa6-4334-4a4a-9c58-93a1747c53c4)
 
 ![png](output_3_7.png)
 
@@ -1646,6 +1650,7 @@ for filename in filenames:
     inflammation-05.csv
 
 
+![output_3_9](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/a05b4813-b4a8-412d-a1cd-7fc37be5b27b)
 
 ![png](output_3_9.png)
 
@@ -1654,6 +1659,7 @@ for filename in filenames:
     inflammation-06.csv
 
 
+![output_3_11](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/94ecf30c-6bc0-4bca-b238-f683fd288ac9)
 
 ![png](output_3_11.png)
 
@@ -1662,6 +1668,7 @@ for filename in filenames:
     inflammation-07.csv
 
 
+![output_3_13](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/661214e9-ef15-4528-a34c-41679e75d0ed)
 
 ![png](output_3_13.png)
 
@@ -1670,6 +1677,7 @@ for filename in filenames:
     inflammation-08.csv
 
 
+![output_3_15](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/4d09880b-9cc6-450e-90b1-7840750c8a92)
 
 ![png](output_3_15.png)
 
@@ -1678,6 +1686,7 @@ for filename in filenames:
     inflammation-09.csv
 
 
+![output_3_17](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/b0e54ff8-b1d0-4879-aecc-d355f3a59107)
 
 ![png](output_3_17.png)
 
@@ -1686,6 +1695,7 @@ for filename in filenames:
     inflammation-10.csv
 
 
+![output_3_19](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/c29d8b9f-0f0c-4ba5-90d6-8e9d7eeec3f8)
 
 ![png](output_3_19.png)
 
@@ -1694,6 +1704,7 @@ for filename in filenames:
     inflammation-11.csv
 
 
+![output_3_21](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/f8326cd9-8743-47df-b6ce-787e88292c7d)
 
 ![png](output_3_21.png)
 
@@ -1702,6 +1713,7 @@ for filename in filenames:
     inflammation-12.csv
 
 
+![output_3_23](https://github.com/jeannedugas/Python_Portfolio/assets/133447987/be8bbec8-b462-40aa-80be-4b97d12175f2)
 
 ![png](output_3_23.png)
 
